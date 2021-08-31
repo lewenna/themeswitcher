@@ -1,0 +1,5 @@
+C:\Users\burak\Desktop\App\ThemeSwitcher.exe
+C:\Users\burak\Desktop\App\ThemeSwitcher.dll
+C:\Users\burak\Desktop\App\ThemeSwitcher.deps.json
+C:\Users\burak\Desktop\App\ThemeSwitcher.runtimeconfig.json
+C:\Users\burak\Desktop\App\ThemeSwitcher.pdb

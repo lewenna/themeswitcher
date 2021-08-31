@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.exe
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.deps.json
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.runtimeconfig.json
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.runtimeconfig.dev.json
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.dll
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ref\ThemeSwitcher.dll
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\bin\Release\net5.0\ThemeSwitcher.pdb
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.AssemblyInfo.cs
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.dll
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ref\ThemeSwitcher.dll
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.pdb
+C:\Users\burak\Desktop\ThemeSwitcher\ThemeSwitcher\obj\Release\net5.0\ThemeSwitcher.genruntimeconfig.cache

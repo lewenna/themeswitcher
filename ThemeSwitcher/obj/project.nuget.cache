@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nb2tjszN5ojVcwhJYnVNG8XlyB0Ft1XIsY7qaMaYid2y+S5NVetmiUpuDFtEp84N8/trU8Aejmv4lAulytxKqQ==",
+  "dgSpecHash": "BEPt08SNP0FfDTlrlUhJJa9qyMF1a6cAIVH/Y5k9L5crg5GjdKej8LLRMuuFlrQ7m2jg5v9xFH8nvErkUI8fvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\ThemeSwitcher.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\ThemeSwitcher\\ThemeSwitcher\\ThemeSwitcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
