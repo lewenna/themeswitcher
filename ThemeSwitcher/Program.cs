@@ -19,7 +19,7 @@ namespace ThemeSwitcher
             while (true)
             {
                 int hour = DateTime.Now.Hour;
-                int[] whiteHours = new int[] { 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 };
+                int[] whiteHours = new int[] { 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 };
                 if (whiteHours.Contains(hour) && GetCurrentTheme() != Theme.WHITE)
                 {
                     SetCurrentTheme(Theme.WHITE);
